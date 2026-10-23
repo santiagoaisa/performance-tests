@@ -1,0 +1,9 @@
+# Archivos de configuración local de IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
